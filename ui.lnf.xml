@@ -1,0 +1,20 @@
+<application>
+  <component name="DependencyUISettings">
+    <option name="UI_FLATTEN_PACKAGES" value="false" />
+    <option name="UI_SHOW_FILES" value="false" />
+    <option name="UI_SHOW_MODULE_GROUPS" value="false" />
+    <option name="UI_GROUP_BY_SCOPE_TYPE" value="false" />
+    <option name="UI_COMPACT_EMPTY_MIDDLE_PACKAGES" value="false" />
+  </component>
+  <component name="UISettings">
+    <option name="ALPHA_MODE_RATIO" value="0.49" />
+    <option name="EDITOR_TAB_PLACEMENT" value="0" />
+    <option name="ENABLE_ALPHA_MODE" value="true" />
+    <option name="FONT_FACE" value=".SFNSText-Regular" />
+    <option name="HIDE_TOOL_STRIPES" value="false" />
+    <option name="MARK_MODIFIED_TABS_WITH_ASTERISK" value="true" />
+    <option name="MAX_LOOKUP_LIST_HEIGHT" value="35" />
+    <option name="MAX_LOOKUP_WIDTH2" value="1499" />
+    <option name="SHOW_MAIN_TOOLBAR" value="true" />
+  </component>
+</application>
