@@ -2,8 +2,10 @@
   <component name="FileTypeManager" version="17">
     <ignoreFiles list="*.cache;*.hprof;*.iml;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.classpath;.git;.hg;.project;.settings;.springBeans;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;target;vssver.scc;vssver2.scc;" />
     <extensionMap>
-      <mapping pattern="hdpname" type="PLAIN_TEXT" />
+      <mapping pattern="stream-kafka-example" type="PLAIN_TEXT" />
+      <mapping pattern="stream-kafka-example.yml" type="PLAIN_TEXT" />
       <mapping pattern="segments_2" type="PLAIN_TEXT" />
+      <mapping pattern="hdpname" type="PLAIN_TEXT" />
       <mapping ext="crt" type="PLAIN_TEXT" />
       <mapping ext="cachefactory" type="PLAIN_TEXT" />
       <mapping ext="index" type="PLAIN_TEXT" />
