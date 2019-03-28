@@ -1,0 +1,9 @@
+<application>
+  <component name="GenericKVStore">
+    <option name="map">
+      <map>
+        <entry key="com.alibabacloud.intellij.ui.BannerPanel$Model7769c4b692a91be957988e2a91b3873a" value="eyJpZCI6Ijc3NjljNGI2OTJhOTFiZTk1Nzk4OGUyYTkxYjM4NzNhIiwiY29udGVudCI6IuWNs+aXpei1t+iHszPmnIgzMeaXpe+8jOmAmui/h+aPkuS7tiggMjAxOS4yLjEg5Y+K5Lul5LiK54mI5pysKeW8gOmAmueahOWunuS+i++8jOS6q+WPl+S4gOS4quaciOWFjei0ue+8jOafpeeci+ivpuaDhSIsImhhc0RldGFpbCI6dHJ1ZSwiZGV0YWlsVGV4dCI6Iuafpeeci+ivpuaDhSIsImRldGFpbExpbmsiOiJodHRwczovL3Byb21vdGlvbi5hbGl5dW4uY29tL250bXMvYWN0L3Jkc2lkZS5odG1sP3NwbVx1MDAzZGNsb3VkLXRvb2xraXQuY2xvdWQtdG9vbGtpdC1pZGUtcGx1Z2luLjAuMCIsImxvY2F0aW9uIjoiUkRTIn0=" />
+      </map>
+    </option>
+  </component>
+</application>
