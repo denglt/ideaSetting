@@ -7,7 +7,6 @@
       <mapping pattern="segments_2" type="PLAIN_TEXT" />
       <mapping pattern="hdpname" type="PLAIN_TEXT" />
       <mapping ext="crt" type="PLAIN_TEXT" />
-      <mapping ext="config" type="PLAIN_TEXT" />
       <mapping ext="cachefactory" type="PLAIN_TEXT" />
       <mapping ext="index" type="PLAIN_TEXT" />
       <mapping ext="merger" type="PLAIN_TEXT" />
