@@ -4,19 +4,19 @@
     <option name="defaultScopeName" value="Project and Libraries" />
     <option name="WITH_SUBDIRECTORIES" value="false" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
-    <option name="FILE_MASK" value="*.java" />
+    <option name="FILE_MASK" value="*.pom" />
     <mask>*.jsp</mask>
     <mask>*.js</mask>
     <mask>*.as</mask>
     <mask>*.css</mask>
     <mask>*.mxml</mask>
     <mask>*.html</mask>
-    <mask>*.pom</mask>
     <mask>*.properties</mask>
     <mask>*.xml</mask>
     <mask>*.yml</mask>
     <mask>*.*</mask>
     <mask>*.factories</mask>
     <mask>*.java</mask>
+    <mask>*.pom</mask>
   </component>
 </application>
