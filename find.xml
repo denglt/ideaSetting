@@ -6,7 +6,7 @@
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="WITH_SUBDIRECTORIES" value="false" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
-    <option name="FILE_MASK" value="*.xml" />
+    <option name="FILE_MASK" value="*.java" />
     <mask>*.jsp</mask>
     <mask>*.js</mask>
     <mask>*.as</mask>
@@ -17,8 +17,8 @@
     <mask>*.*</mask>
     <mask>*.factories</mask>
     <mask>*.yml</mask>
-    <mask>*.java</mask>
     <mask>*.pom</mask>
     <mask>*.xml</mask>
+    <mask>*.java</mask>
   </component>
 </application>
