@@ -10,8 +10,10 @@
     <pattern pattern="\bfixme\b.*" />
     <pattern pattern="\btodo\b.* denglt.*" />
     <pattern pattern="\btodo\b.* dlt.*" />
+    <pattern pattern=".*denglt.*\btodo\b" />
     <filter name="me">
       <pattern index="2" />
+      <pattern index="4" />
       <pattern index="3" />
     </filter>
   </component>
