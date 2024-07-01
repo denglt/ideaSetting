@@ -15,8 +15,8 @@
     <mask>*.factories</mask>
     <mask>*.xml</mask>
     <mask>*.pom</mask>
-    <mask>*.yml</mask>
     <mask>*.*</mask>
+    <mask>*.yml</mask>
     <mask>*.java</mask>
   </component>
 </application>
