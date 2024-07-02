@@ -3,7 +3,7 @@
     <option name="REFORMAT_ON_PASTE" value="2" />
   </component>
   <component name="EditorSettings">
-    <option name="USE_SOFT_WRAPS" value="CONSOLE" />
+    <option name="USE_SOFT_WRAPS" value="CONSOLE:PREVIEW" />
   </component>
   <component name="TodoConfiguration">
     <pattern pattern="\btodo\b.*" />
