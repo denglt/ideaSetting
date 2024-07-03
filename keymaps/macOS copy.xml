@@ -3,4 +3,8 @@
   <action id="CopyAsPlainText">
     <keyboard-shortcut first-keystroke="meta c" />
   </action>
+  <action id="Tool.GotoRequestService">
+    <keyboard-shortcut first-keystroke="meta alt slash" />
+    <keyboard-shortcut first-keystroke="ctrl meta slash" />
+  </action>
 </keymap>
