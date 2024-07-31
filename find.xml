@@ -15,10 +15,10 @@
     <mask>*.html</mask>
     <mask>*.properties</mask>
     <mask>*.factories</mask>
-    <mask>*.yml</mask>
     <mask>*.pom</mask>
     <mask>*.*</mask>
     <mask>*.xml</mask>
+    <mask>*.yml</mask>
     <mask>*.java</mask>
   </component>
 </application>
