@@ -1,0 +1,5 @@
+<application>
+  <component name="CommonStatePersistent">
+    <option name="requestEnvironment" value="{&quot;environmentName&quot;:&quot;GlobalRequestEnvironment&quot;,&quot;id&quot;:&quot;GlobalRequestEnvironment&quot;,&quot;header&quot;:[],&quot;urlParam&quot;:[],&quot;formData&quot;:[],&quot;formUrlencoded&quot;:[]}" />
+  </component>
+</application>
