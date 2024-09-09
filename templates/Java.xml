@@ -1,8 +1,5 @@
 <templateSet group="Java">
-  <template name="td" value="// denglt TODO $date$: $END$" description="TODO Template" toReformat="false" toShortenFQNames="true">
-    <variable name="date" expression="date()" defaultValue="" alwaysStopAt="false" />
-    <context>
-      <option name="JAVA_STATEMENT" value="true" />
-    </context>
+  <template name="td" value="// denglt TODO $date$: $END$" description="todo" toReformat="false" toShortenFQNames="true">
+    <variable name="date" expression="" defaultValue="" alwaysStopAt="true" />
   </template>
 </templateSet>
