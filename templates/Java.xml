@@ -2,5 +2,9 @@
   <template name="td" value="//TODO  $date$ $USER$: $END$" description="todo" toReformat="false" toShortenFQNames="true">
     <variable name="date" expression="date()" defaultValue="" alwaysStopAt="true" />
     <variable name="USER" expression="user()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_DECLARATION" value="true" />
+      <option name="JAVA_STATEMENT" value="true" />
+    </context>
   </template>
 </templateSet>
