@@ -2,7 +2,7 @@
   <component name="LocalDatabaseDriverManager" version="201">
     <driver id="mysql.8">
       <artifact />
-      <artifact id="MySQL ConnectorJ" name="MySQL ConnectorJ" use="true" version="8.0.25" />
+      <artifact id="MySQL ConnectorJ" name="MySQL ConnectorJ" use="true" version="8.2.0" />
     </driver>
     <driver id="oracle.19">
       <artifact id="Oracle" name="Oracle" use="true" version="21.5.0.0" />
