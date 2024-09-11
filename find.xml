@@ -4,7 +4,7 @@
     <option name="defaultScopeName" value="Project Files" />
     <option name="WITH_SUBDIRECTORIES" value="false" />
     <option name="SEARCH_SCOPE" value="Project Files" />
-    <option name="FILE_MASK" value="*.java" />
+    <option name="FILE_MASK" value="*.yml" />
     <mask>*.jsp</mask>
     <mask>*.js</mask>
     <mask>*.as</mask>
@@ -16,7 +16,7 @@
     <mask>*.pom</mask>
     <mask>*.*</mask>
     <mask>*.xml</mask>
-    <mask>*.yml</mask>
     <mask>*.java</mask>
+    <mask>*.yml</mask>
   </component>
 </application>
