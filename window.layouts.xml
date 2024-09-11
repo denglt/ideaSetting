@@ -1,13 +1,29 @@
 <application>
   <component name="ToolWindowLayout"><![CDATA[{
+  "activeLayoutName": "denglt",
   "layouts": {
     "Custom": {
       "v2": [
         {
+          "id": "ORM",
+          "isShowStripeButton": false,
+          "isSplit": true
+        },
+        {
+          "id": "Merge Requests",
+          "isShowStripeButton": false
+        },
+        {
+          "id": "Learn",
+          "isShowStripeButton": false
+        },
+        {
           "id": "Project",
           "order": 0,
           "contentUiType": "COMBO",
-          "weight": 0.25
+          "isActiveOnStart": true,
+          "isVisible": true,
+          "weight": 0.32994792
         },
         {
           "id": "Commit",
@@ -19,6 +35,40 @@
           "order": 2,
           "weight": 0.25,
           "isSplit": true
+        },
+        {
+          "id": "Pull Requests",
+          "order": 2,
+          "isShowStripeButton": false,
+          "weight": 0.27529764
+        },
+        {
+          "id": "Bookmarks",
+          "order": 3,
+          "isShowStripeButton": false,
+          "weight": 0.22232142,
+          "sideWeight": 0.4990909,
+          "isSplit": true
+        },
+        {
+          "id": "Database Changes",
+          "anchor": "BOTTOM",
+          "isShowStripeButton": false
+        },
+        {
+          "id": "TypeScript",
+          "anchor": "BOTTOM",
+          "isShowStripeButton": false
+        },
+        {
+          "id": "Profiler",
+          "anchor": "BOTTOM",
+          "isShowStripeButton": false
+        },
+        {
+          "id": "File Transfer",
+          "anchor": "BOTTOM",
+          "isShowStripeButton": false
         },
         {
           "id": "Version Control",
@@ -44,6 +94,39 @@
           "id": "Services",
           "order": 4,
           "anchor": "BOTTOM"
+        },
+        {
+          "id": "TODO",
+          "order": 5,
+          "anchor": "BOTTOM",
+          "isShowStripeButton": false,
+          "weight": 0.29191032
+        },
+        {
+          "id": "Build",
+          "order": 6,
+          "anchor": "BOTTOM",
+          "isShowStripeButton": false,
+          "weight": 0.26658165
+        },
+        {
+          "id": "Find",
+          "order": 7,
+          "anchor": "BOTTOM",
+          "isShowStripeButton": false,
+          "weight": 0.44600338
+        },
+        {
+          "id": "documentation.v2",
+          "anchor": "RIGHT",
+          "isShowStripeButton": false,
+          "isSplit": true
+        },
+        {
+          "id": "Coverage",
+          "anchor": "RIGHT",
+          "isShowStripeButton": false,
+          "isSplit": true
         },
         {
           "id": "Notifications",
@@ -75,8 +158,221 @@
           "order": 4,
           "anchor": "RIGHT",
           "weight": 0.25
+        },
+        {
+          "id": "Web Inspector",
+          "order": 4,
+          "anchor": "RIGHT",
+          "isShowStripeButton": false,
+          "weight": 0.23515625
+        },
+        {
+          "id": "Beans",
+          "order": 6,
+          "anchor": "RIGHT",
+          "isShowStripeButton": false,
+          "weight": 0.2653646
+        },
+        {
+          "id": "Endpoints",
+          "order": 8,
+          "anchor": "RIGHT",
+          "isShowStripeButton": false,
+          "weight": 0.33776042
         }
-      ]
+      ],
+      "unifiedWeights": {
+        "top": 0.33,
+        "left": 0.32994792,
+        "bottom": 0.33,
+        "right": 0.33
+      }
+    },
+    "denglt": {
+      "v2": [
+        {
+          "id": "ORM",
+          "isShowStripeButton": false,
+          "isSplit": true
+        },
+        {
+          "id": "Merge Requests",
+          "isShowStripeButton": false
+        },
+        {
+          "id": "Learn",
+          "isShowStripeButton": false
+        },
+        {
+          "id": "Project",
+          "order": 0,
+          "contentUiType": "COMBO",
+          "isActiveOnStart": true,
+          "isVisible": true,
+          "weight": 0.19036458
+        },
+        {
+          "id": "Commit",
+          "order": 1,
+          "weight": 0.25
+        },
+        {
+          "id": "Structure",
+          "order": 2,
+          "isActiveOnStart": true,
+          "isVisible": true,
+          "weight": 0.19036458,
+          "isSplit": true
+        },
+        {
+          "id": "Pull Requests",
+          "order": 2,
+          "isShowStripeButton": false,
+          "weight": 0.27529764
+        },
+        {
+          "id": "Bookmarks",
+          "order": 3,
+          "isShowStripeButton": false,
+          "weight": 0.22232142,
+          "sideWeight": 0.4990909,
+          "isSplit": true
+        },
+        {
+          "id": "Database Changes",
+          "anchor": "BOTTOM",
+          "isShowStripeButton": false
+        },
+        {
+          "id": "TypeScript",
+          "anchor": "BOTTOM",
+          "isShowStripeButton": false
+        },
+        {
+          "id": "Profiler",
+          "anchor": "BOTTOM",
+          "isShowStripeButton": false
+        },
+        {
+          "id": "File Transfer",
+          "anchor": "BOTTOM",
+          "isShowStripeButton": false
+        },
+        {
+          "id": "Version Control",
+          "order": 0,
+          "anchor": "BOTTOM"
+        },
+        {
+          "id": "Problems",
+          "order": 1,
+          "anchor": "BOTTOM"
+        },
+        {
+          "id": "Problems View",
+          "order": 2,
+          "anchor": "BOTTOM"
+        },
+        {
+          "id": "Terminal",
+          "order": 3,
+          "anchor": "BOTTOM"
+        },
+        {
+          "id": "Services",
+          "order": 4,
+          "anchor": "BOTTOM"
+        },
+        {
+          "id": "TODO",
+          "order": 5,
+          "anchor": "BOTTOM",
+          "weight": 0.33035713
+        },
+        {
+          "id": "Build",
+          "order": 6,
+          "anchor": "BOTTOM",
+          "isShowStripeButton": false,
+          "weight": 0.26658165
+        },
+        {
+          "id": "Find",
+          "order": 7,
+          "anchor": "BOTTOM",
+          "isActiveOnStart": true,
+          "isVisible": true,
+          "weight": 0.33035713
+        },
+        {
+          "id": "documentation.v2",
+          "anchor": "RIGHT",
+          "isShowStripeButton": false,
+          "isSplit": true
+        },
+        {
+          "id": "Coverage",
+          "anchor": "RIGHT",
+          "isShowStripeButton": false,
+          "isSplit": true
+        },
+        {
+          "id": "Notifications",
+          "order": 0,
+          "anchor": "RIGHT",
+          "contentUiType": "COMBO",
+          "weight": 0.25
+        },
+        {
+          "id": "AIAssistant",
+          "order": 1,
+          "anchor": "RIGHT",
+          "weight": 0.25
+        },
+        {
+          "id": "Database",
+          "order": 2,
+          "anchor": "RIGHT",
+          "weight": 0.25
+        },
+        {
+          "id": "Gradle",
+          "order": 3,
+          "anchor": "RIGHT",
+          "weight": 0.25
+        },
+        {
+          "id": "Maven",
+          "order": 4,
+          "anchor": "RIGHT",
+          "weight": 0.25
+        },
+        {
+          "id": "Web Inspector",
+          "order": 4,
+          "anchor": "RIGHT",
+          "isShowStripeButton": false,
+          "weight": 0.23515625
+        },
+        {
+          "id": "Beans",
+          "order": 6,
+          "anchor": "RIGHT",
+          "weight": 0.32994792
+        },
+        {
+          "id": "Endpoints",
+          "order": 8,
+          "anchor": "RIGHT",
+          "weight": 0.32994792
+        }
+      ],
+      "unifiedWeights": {
+        "top": 0.33,
+        "left": 0.19036458,
+        "bottom": 0.33035713,
+        "right": 0.32994792
+      }
     }
   }
 }]]></component>
