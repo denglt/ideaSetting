@@ -209,7 +209,8 @@
           "contentUiType": "COMBO",
           "isActiveOnStart": true,
           "isVisible": true,
-          "weight": 0.19036458
+          "weight": 0.12838542,
+          "sideWeight": 0.5772613
         },
         {
           "id": "Commit",
@@ -221,7 +222,8 @@
           "order": 2,
           "isActiveOnStart": true,
           "isVisible": true,
-          "weight": 0.19036458,
+          "weight": 0.12838542,
+          "sideWeight": 0.4227387,
           "isSplit": true
         },
         {
@@ -276,7 +278,10 @@
         {
           "id": "Terminal",
           "order": 3,
-          "anchor": "BOTTOM"
+          "anchor": "BOTTOM",
+          "isActiveOnStart": true,
+          "isVisible": true,
+          "weight": 0.24107143
         },
         {
           "id": "Services",
@@ -300,9 +305,7 @@
           "id": "Find",
           "order": 7,
           "anchor": "BOTTOM",
-          "isActiveOnStart": true,
-          "isVisible": true,
-          "weight": 0.33035713
+          "weight": 0.32100338
         },
         {
           "id": "documentation.v2",
@@ -320,8 +323,7 @@
           "id": "Notifications",
           "order": 0,
           "anchor": "RIGHT",
-          "contentUiType": "COMBO",
-          "weight": 0.25
+          "weight": 0.35755208
         },
         {
           "id": "AIAssistant",
@@ -364,14 +366,14 @@
           "id": "Endpoints",
           "order": 8,
           "anchor": "RIGHT",
-          "weight": 0.32994792
+          "weight": 0.35755208
         }
       ],
       "unifiedWeights": {
         "top": 0.33,
-        "left": 0.19036458,
-        "bottom": 0.33035713,
-        "right": 0.32994792
+        "left": 0.12838542,
+        "bottom": 0.24107143,
+        "right": 0.35755208
       }
     }
   }

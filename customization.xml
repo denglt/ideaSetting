@@ -63,11 +63,18 @@
     <group value="EditorGutterPopupMenu" is_group="true" forse_popup="false" action_type="-1" position="3">
       <path value="root" />
     </group>
+    <group value="tasks.switch" is_action="true" action_type="-1" position="3">
+      <path value="root" />
+      <path value="Main Toolbar" />
+      <path value="Left" />
+    </group>
     <group value="EditorPopupMenu" is_group="true" forse_popup="false" action_type="-1" position="2">
       <path value="root" />
     </group>
     <group value="MainMenu" is_group="true" forse_popup="false" action_type="-1" position="0">
       <path value="root" />
     </group>
+    <action id="MainToolbarGeneralActionsGroup" icon="jar:file:/Applications/IntelliJ%20IDEA.app/Contents/lib/app-client.jar!/expui/toolbar/unknown.svg" />
+    <action id="Perforce.Toolbar.PerforceToolbarWidgetAction" icon="jar:file:/Applications/IntelliJ%20IDEA.app/Contents/lib/app-client.jar!/expui/toolbar/unknown.svg" />
   </component>
 </application>
